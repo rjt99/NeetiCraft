@@ -51,6 +51,7 @@ NeetiCraft is an AI-powered policy intelligence and evaluation platform designed
   # Windows
   python -m venv .venv
   .venv\Scripts\activate
+  # ok
 
   pip install -r requirements.txt
   ```
